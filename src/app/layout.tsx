@@ -3,8 +3,8 @@ import type { ReactNode } from 'react';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Votre projet',
-  description: 'Point de départ pour votre application web.',
+  title: 'Dépenses entre amis',
+  description: 'Saisir les dépenses du groupe et voir qui doit quoi, à parts égales.',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -5,6 +5,8 @@
   --color-ink: #0e1728;
   --color-muted: #4b5b72;
   --color-accent: #1458db;
+  --color-positive: #0f7a3d;
+  --color-negative: #b42318;
 }
 
 @layer base {

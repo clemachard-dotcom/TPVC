@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795111169191,
+      "tag": "0000_depenses",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795112027245,
+      "tag": "0001_remboursements",
+      "breakpoints": true
+    }
+  ]
+}
